@@ -1411,13 +1411,9 @@ ul{
 .gallery,
 .booking{
 
-    opacity:0;
+    opacity:1;
 
-    transform:translateY(35px);
-
-    transition:
-        opacity .9s ease,
-        transform .9s ease;
+    transform:none;
 
 }
 
